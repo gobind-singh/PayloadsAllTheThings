@@ -131,6 +131,8 @@ transformed into U+0027 APOSTROPHE (')
 sqlmap -u "<url>" -D <database> -T <Table> --dump --forms --crawl=2 --level 5
 ```
 
+* [sqlmap cheat sheet](https://www.security-sleuth.com/sleuth-blog/2017/1/3/sqlmap-cheat-sheet)
+
 ### Basic arguments for SQLmap
 
 ```powershell
