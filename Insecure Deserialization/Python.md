@@ -48,3 +48,6 @@ print("Your Evil Token : {}").format(evil_token)
 
 * [Exploiting misuse of Python's "pickle" - Mar 20, 2011](https://blog.nelhage.com/2011/03/exploiting-pickle/)
 * [Python Pickle Injection - Apr 30, 2017](http://xhyumiracle.com/python-pickle-injection/)
+* [Using Python’s pickling to explain Insecure Deserialization](https://medium.com/@shibinbshaji007/using-pythons-pickling-to-explain-insecure-deserialization-5837d2328466)
+* [Pickle - Python](https://docs.python.org/3/library/pickle.html)
+* [Understanding Python pickling and how to use it securely](https://www.synopsys.com/blogs/software-security/python-pickling/)
